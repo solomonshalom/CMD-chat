@@ -8,6 +8,7 @@ An chat application made in python that can be used in the command line, the cod
 The main part of coding, an IDE. I would recommand, [Atom](https://github.com/atom) or [Visual Studio Code](https://github.com/microsoft/vscode). The reason I would recommand this IDE because of it's ease of access and tons of extensions.
 
 - Python
+
 Python is necessary for the code to run as it is built upon python. To download it, simply download the installer and install all the files such as PIP and other required files/extensions. 
 
 # Server IP and Port
