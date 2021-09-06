@@ -184,7 +184,7 @@ def main():
 	serverSocket.connect((sys.argv[1], int(sys.argv[2])))
 	state["inputCondition"] = threading.Condition()
 	state["sendMessageLock"] = threading.Lock()
-	state["username"] = input("Welcome to PyconChat! Please enter your username: ")
+	state["username"] = input("Welcome to CMD Chat, Made By Solomon Shalom Lijo! Please enter your username: ")
 	state["groupname"] = input("Please enter the name of the group: ")
 	state["alive"] = False
 	state["joinDisconnect"] = False
